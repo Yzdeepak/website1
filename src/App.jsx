@@ -107,6 +107,7 @@ const App = () => {
         </div>
 
         <div className='fourthpage'>
+          <div></div>
 
           <div className='fourthimgdiv'>
             <img src="https://tse3.mm.bing.net/th?id=OIP.tJQjxbLRRaEt9B4OB546kAHaHw&pid=Api&P=0&h=220"></img>
