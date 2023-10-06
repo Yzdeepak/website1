@@ -42,7 +42,7 @@ const App = () => {
             </div>
           </div>
           <div className='homeimage'>
-            <img src='../image/pexels-web-donut-19090.jpg'></img>
+            <img src='https://tse4.mm.bing.net/th?id=OIP.a01t5RpH6dnZI8VNovpCfgHaE8&pid=Api&P=0&h=220'></img>
           </div>
         </div>
 
@@ -60,7 +60,7 @@ const App = () => {
             <h4>wow greate yar kya paragraph hai</h4>
           </div>
           <div className='sechomeimg'>
-            <img src="../image/pair-trainers.jpg"></img>
+            <img src="https://tse3.mm.bing.net/th?id=OIP.1RfKeDjiffAd7MnXDykgcQHaFs&pid=Api&P=0&h=220"></img>
           </div>
 
         </div>
@@ -76,32 +76,32 @@ const App = () => {
 
 
           <div className="thirdhomediv">
-            <img src="../th.jpg"></img>
+            <img src="https://tse3.mm.bing.net/th?id=OIP.rCkbNvjE6U-vWSmu8NWlGQHaE8&pid=Api&P=0&h=220"></img>
             <button className="thirdhomebtn" type='submit'>Get</button>
           </div>
 
           <div className="thirdhomediv">
-            <img src="../image/fashion-shoes-sneakers.jpg"></img>
+            <img src="https://tse3.mm.bing.net/th?id=OIP.uhlH_kKHKAv1YWCelc4icgHaFj&pid=Api&P=0&h=220"></img>
             <button className="thirdhomebtn" type='submit'>Get</button>
           </div>
 
           <div className="thirdhomediv">
-            <img src="../image/pair-trainers.jpg"></img>
+            <img src="https://tse4.mm.bing.net/th?id=OIP.d-7UFbAaPsT2y3dYpaKm1AHaFb&pid=Api&P=0&h=220"></img>
             <button className="thirdhomebtn" type='submit'>Get</button>
           </div>
 
           <div className="thirdhomediv">
-            <img src="../image/pexels-alexandra-maria-336372.jpg"></img>
+            <img src="https://tse3.mm.bing.net/th?id=OIP.DBKb0vExL7T36bqDy53z3AHaHa&pid=Api&P=0&h=220"></img>
             <button className="thirdhomebtn" type='submit'>Get</button>
           </div>
 
           <div className="thirdhomediv">
-            <img src="../image/sneaker-that-has-word-nike-it.jpg"></img>
+            <img src="https://tse3.mm.bing.net/th?id=OIP.tJQjxbLRRaEt9B4OB546kAHaHw&pid=Api&P=0&h=220"></img>
             <button className="thirdhomebtn" type='submit'>Get</button>
           </div>
 
           <div className="thirdhomediv">
-            <img src="../image/pexels-mnz-1598505 (1).jpg"></img>
+            <img src="https://tse3.mm.bing.net/th?id=OIP.uhlH_kKHKAv1YWCelc4icgHaFj&pid=Api&P=0&h=220"></img>
             <button className="thirdhomebtn" type='submit'>Get</button>
           </div>
         </div>
@@ -109,7 +109,7 @@ const App = () => {
         <div className='fourthpage'>
 
           <div className='fourthimgdiv'>
-            <img src="../image/sneaker-that-has-word-nike-it.jpg"></img>
+            <img src="https://tse3.mm.bing.net/th?id=OIP.tJQjxbLRRaEt9B4OB546kAHaHw&pid=Api&P=0&h=220"></img>
           </div>
 
 
