@@ -12,6 +12,7 @@ const App = () => {
     <>
 
       <div className='container'>
+        <div></div>
 
         <nav className='navdiv'>
           <div className='logodiv'><img src="../image/motorcycle-1905281_1280.jpg"></img></div>
